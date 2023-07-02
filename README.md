@@ -1,4 +1,5 @@
 # Intervista
+Track : Full-Stack Development
 ![image](https://github.com/monishkajha17/Intervista/assets/109274817/41723737-caa5-45bf-a918-fccbb1249337)
 Intervista is a platform for the recuiters and the job seekers where recuiters and list their opportunity and add their interview questions, and on the other hand job seekers can apply to the job and take the interview according to their preferabble schedule. And this will help to take interview of 1000 candidates at their decided time.
 
